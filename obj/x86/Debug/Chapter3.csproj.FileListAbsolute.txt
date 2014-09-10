@@ -1,0 +1,8 @@
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter3\obj\x86\Debug\Chapter3.exe
+C:\Users\EAHSCS\AppData\Local\Temporary Projects\Chapter3\obj\x86\Debug\Chapter3.pdb
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\Chapter3\Chapter3\obj\x86\Debug\Chapter3.exe
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\Chapter3\Chapter3\obj\x86\Debug\Chapter3.pdb
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\Chapter3\Chapter3\bin\Debug\Chapter3.exe
+C:\Users\EAHSCS\documents\visual studio 2010\Projects\Chapter3\Chapter3\bin\Debug\Chapter3.pdb
