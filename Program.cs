@@ -9,11 +9,10 @@ namespace Chapter3
     {
         static void Main(string[] args)
             {
-            Console.WriteLine("value not in range");
+             Console.WriteLine("Enter hourly pay rate");
             string input = Console.ReadLine();
             double hpr;
             hpr = Convert.ToDouble(input);
-
             if (hpr < 5.65)
                 Console.WriteLine("ERROR");
             
