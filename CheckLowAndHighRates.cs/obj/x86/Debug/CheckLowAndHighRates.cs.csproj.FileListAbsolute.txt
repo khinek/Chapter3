@@ -1,4 +1,0 @@
-C:\Users\alexadb123\Documents\GitHub\CheckLowAndHighRates.cs\bin\Debug\CheckLowAndHighRates.cs.exe
-C:\Users\alexadb123\Documents\GitHub\CheckLowAndHighRates.cs\bin\Debug\CheckLowAndHighRates.cs.pdb
-C:\Users\alexadb123\Documents\GitHub\CheckLowAndHighRates.cs\obj\x86\Debug\CheckLowAndHighRates.cs.exe
-C:\Users\alexadb123\Documents\GitHub\CheckLowAndHighRates.cs\obj\x86\Debug\CheckLowAndHighRates.cs.pdb
