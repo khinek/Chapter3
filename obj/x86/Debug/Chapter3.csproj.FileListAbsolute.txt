@@ -10,3 +10,5 @@ C:\Users\alexadb123\Documents\GitHub\Chapter3\obj\x86\Debug\Chapter3.exe
 C:\Users\alexadb123\Documents\GitHub\Chapter3\obj\x86\Debug\Chapter3.pdb
 C:\Users\alexadb123\Documents\GitHub\Chapter3\bin\Debug\Chapter3.exe
 C:\Users\alexadb123\Documents\GitHub\Chapter3\bin\Debug\Chapter3.pdb
+C:\Users\EAHSCS\Documents\GitHub\Chapter3\obj\x86\Debug\Chapter3.exe
+C:\Users\EAHSCS\Documents\GitHub\Chapter3\obj\x86\Debug\Chapter3.pdb
